@@ -1,2 +1,2 @@
 # Sort-bye-Bubble
-Is a code of bubble sort in Python
+Are codes of bubble sort and selection sort in Python
